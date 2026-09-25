@@ -1,5 +1,3 @@
-# ```
-
 # \# 🏥 Redis pour la Santé Numérique
 
 # \## Plateforme de Surveillance Épidémiologique
@@ -355,6 +353,3 @@
 # 
 
 # ⭐ Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile !
-
-```
-
